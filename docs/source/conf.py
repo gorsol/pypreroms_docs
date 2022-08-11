@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'pypreroms'
+copyright = '2022, Gorka Solana Arteche'
+author = 'Gorka Solana Arteche'
 
 release = '0.1'
 version = '0.1.0'

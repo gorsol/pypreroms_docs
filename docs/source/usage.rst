@@ -6,11 +6,11 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use PYpreROMS, first install it using conda:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ conda install -c conda-forge pypreroms
 
 Creating recipes
 ----------------
@@ -28,7 +28,7 @@ will raise an exception.
 
 For example:
 
->>> import lumache
+>>> import pypreroms
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
